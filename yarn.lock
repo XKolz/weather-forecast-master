@@ -8652,7 +8652,7 @@ react-scripts@5.0.0:
     webpack "^5.64.4"
     webpack-dev-server "^4.6.0"
     webpack-manifest-plugin "^4.0.2"
-    workbox-webpack-plugin "^6.4.1"
+    workbox-webpack-plugin "^5.0.0"
   optionalDependencies:
     fsevents "^2.3.2"
 
